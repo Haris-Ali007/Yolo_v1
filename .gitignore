@@ -1,0 +1,6 @@
+saved_models
+training_logs
+VOCdevkit_test
+VOCtrainval_06-Nov-2007
+__pycache__
+*.odt
